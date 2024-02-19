@@ -8,3 +8,16 @@ header {
     height: 200px;
     width: 400px;
 }
+
+h1 {
+    font-size: 60px;
+}
+
+.the-booleaner{
+    color: rgb(0, 89, 255);
+}
+
+.colore-scritta{
+    color: gray;
+    font-weight: 100;
+}
