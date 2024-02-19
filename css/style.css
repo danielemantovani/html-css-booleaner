@@ -22,6 +22,27 @@ h1 {
     font-weight: 700;
 }
 
+.descrizione-foto{
+    font-size: small;
+}
+
 .testo-evidenziato {
     background-color: yellow;
+}
+
+.intestazione-tabella {
+    background-color: rgb(93, 175, 234);
+    color: white;
+}
+
+.riga1-3 {
+    background-color: rgb(150, 221, 235);
+}
+
+.colonna1-2{
+    width: 20%;
+}
+
+.colonna3 {
+    width: 60%;
 }
