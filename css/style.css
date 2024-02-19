@@ -21,3 +21,7 @@ h1 {
     color: gray;
     font-weight: 700;
 }
+
+.testo-evidenziato {
+    background-color: yellow;
+}
