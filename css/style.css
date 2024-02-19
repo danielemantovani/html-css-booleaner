@@ -1,4 +1,4 @@
-header {
+.container-header {
     background-color:rgba(108, 181, 245, 0.914);
     background-image: url(../img/pattern.png);
     height: 180px;
@@ -14,10 +14,10 @@ h1 {
 }
 
 .the-booleaner{
-    color: rgb(0, 89, 255);
+    color: rgb(108, 181, 245);
 }
 
-.colore-scritta{
+.colore-scritte{
     color: gray;
-    font-weight: 100;
+    font-weight: 700;
 }
